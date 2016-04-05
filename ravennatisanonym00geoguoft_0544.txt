@@ -1,0 +1,31 @@
+514 vao 81
+
+1 Burret
+2 Bugeth
+3 Rusinum
+4 Uterris
+5 81. Narbona
+6 Cobusta
+7 Ρ erurinova
+8 Aque calide
+9 Iuncaria
+1 0 Viniana
+1 1 Gerundia
+1 2 Aquis Buconis
+1 3 Colonia Burginum
+1 4 Seterra
+1 5 Praetorium
+1 6 Arragona
+1 7 Fines
+1 8 Ancistiana
+1 9 Palt-uriana
+2 Ο Terragona
+2 1 Saltum
+2 2 Pinum
+2 3 Tria capita
+2 4 Dertosa
+2 5 Laubricatum
+codex b. cf. Rav. 341 1 sq.
+
+7 Perurinova] Ruscinone Bar.
+
