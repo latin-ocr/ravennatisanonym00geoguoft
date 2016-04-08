@@ -1,0 +1,31 @@
+vao 86 517
+
+1 Calama
+2 Valonice
+3 Portum magnum
+4 Cersenaria.
+5 85 Lar castellum
+6 Cunagus
+7 Cesarea
+8 Tipassa
+9 Ciborim
+1 0 Icosium
+1 1 Rusgimia
+1⁶2 Rusicorus municipium
+13 Lomnium
+14 Rusubisim
+1 5 Rusuvicaris
+16 Casi municipium
+1 7 Ionmon
+18 Rusuvis municipium
+1 9 Salbas
+20 Musluvium orea
+2 1 Chosa
+22 Itiltili
+23 Patia
+24 86. Cullum
+2 5 Rusicada
+codem h. esf. Κατ. 345 14 sq.
+
+1 2 minicipium b. 18 municipium] mona b.
+
